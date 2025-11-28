@@ -1,0 +1,4 @@
+## Interface: 11200
+## Title: FarmIt8
+FarmIt8.lua
+FarmIt8.xml
